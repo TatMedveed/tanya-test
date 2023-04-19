@@ -1,0 +1,10 @@
+{
+  "loginKey" : {
+    "emailKey": "tanyamedveed@gmail.com",
+    "passwordKey": "Mp2551496"
+  },
+  "urls" : {
+    "urlLogin": "https://thinking-tester-contact-list.herokuapp.com",
+    "urlContactList": "https://thinking-tester-contact-list.herokuapp.com/contactList"
+  }
+}
