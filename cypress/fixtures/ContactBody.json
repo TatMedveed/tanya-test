@@ -1,0 +1,15 @@
+{
+  "body" : {
+    "firstName": "testName",
+    "lastName": "testLastName",
+    "birthdate": "2022-07-24",
+    "email": "test@asd.io",
+    "phone": "2055397477",
+    "street1": "Artisan",
+    "street2": "Crescent Oaks",
+    "city": "Birmingham",
+    "stateProvince": "Alabama",
+    "postalCode": "35263",
+    "country": "United States"
+  }
+}

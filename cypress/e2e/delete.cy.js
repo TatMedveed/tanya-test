@@ -5,8 +5,8 @@ import {onContactPage} from '../support/page_objects/contactPage';
 describe('Login', () => {
 
   beforeEach('Login', () => {
-    cy.visit(urls.urlLogin).get(onContactPage.Email).type(loginKey.emailKey);
-    cy.get(onContactPage.Password).type(loginKey.passwordKey);
+    cy.visit(urls.urlMainPage).get(onContactPage.Email).type(loginKey.email);
+    cy.get(onContactPage.Password).type(loginKey.password);
     cy.get(onContactPage.Submit).click();
   });
 

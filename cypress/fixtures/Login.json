@@ -1,10 +1,12 @@
 {
   "loginKey" : {
-    "emailKey": "tanyamedveed@gmail.com",
-    "passwordKey": "Mp2551496"
+    "email": "tanyamedveed@gmail.com",
+    "password": "Mp2551496"
   },
   "urls" : {
-    "urlLogin": "https://thinking-tester-contact-list.herokuapp.com",
-    "urlContactList": "https://thinking-tester-contact-list.herokuapp.com/contactList"
+    "urlMainPage": "https://thinking-tester-contact-list.herokuapp.com",
+    "urlLogin": "https://thinking-tester-contact-list.herokuapp.com/users/login",
+    "urlContactList": "https://thinking-tester-contact-list.herokuapp.com/contactList",
+    "urlContacts": "https://thinking-tester-contact-list.herokuapp.com/contacts"
   }
 }
